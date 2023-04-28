@@ -7,7 +7,7 @@ const About = () => {
       <p>
         Me llamo <BoldText>Manuel Casanova</BoldText>,{" "}
         <BoldText>React Developer</BoldText> con experiencia creando
-        aplicaciones web buscando crear interfaces útiles e intuitivas para los
+        aplicaciones web con interfaces útiles e intuitivas para los
         usuarios.
       </p>
       <p>
